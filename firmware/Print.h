@@ -6,8 +6,6 @@
 
 #pragma once
 
-#ifndef ARDUINO
-
 #include <stddef.h>
 #include <stdint.h>
 

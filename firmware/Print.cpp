@@ -4,9 +4,6 @@
 // Arduino JSON library
 // https://github.com/bblanchon/ArduinoJson
 
-#ifndef ARDUINO
-
-
 
 #include <stdio.h>  // for sprintf
 
