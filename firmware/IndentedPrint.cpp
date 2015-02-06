@@ -4,7 +4,7 @@
 // Arduino JSON library
 // https://github.com/bblanchon/ArduinoJson
 
-#include "IndentedPrint.hpp"
+#include "IndentedPrint.h"
 
 using namespace ArduinoJson::Internals;
 

@@ -4,7 +4,7 @@
 // Arduino JSON library
 // https://github.com/bblanchon/ArduinoJson
 
-#include "StringBuilder.hpp"
+#include "StringBuilder.h"
 
 using namespace ArduinoJson::Internals;
 

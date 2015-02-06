@@ -4,7 +4,7 @@
 // Arduino JSON library
 // https://github.com/bblanchon/ArduinoJson
 
-#include "Prettyfier.hpp"
+#include "Prettyfier.h"
 
 using namespace ArduinoJson::Internals;
 

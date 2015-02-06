@@ -4,7 +4,7 @@
 // Arduino JSON library
 // https://github.com/bblanchon/ArduinoJson
 
-#include "QuotedString.hpp"
+#include "QuotedString.h"
 
 using namespace ArduinoJson::Internals;
 

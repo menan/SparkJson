@@ -6,7 +6,7 @@
 
 #ifndef ARDUINO
 
-#include "Print.hpp"
+#include "Print.h"
 
 #include <stdio.h>  // for sprintf
 

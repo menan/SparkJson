@@ -4,15 +4,15 @@
 // Arduino JSON library
 // https://github.com/bblanchon/ArduinoJson
 
-#include "JsonParser.hpp"
+#include "JsonParser.h"
 
 #include <stdlib.h>  // for strtol, strtod
 #include <ctype.h>
 
-#include "QuotedString.hpp"
-#include "JsonArray.hpp"
-#include "JsonBuffer.hpp"
-#include "JsonObject.hpp"
+#include "QuotedString.h"
+#include "JsonArray.h"
+#include "JsonBuffer.h"
+#include "JsonObject.h"
 
 using namespace ArduinoJson;
 using namespace ArduinoJson::Internals;
