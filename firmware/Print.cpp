@@ -28,5 +28,3 @@ size_t Print::print(long value) {
 }
 
 size_t Print::println() { return write('\r') + write('\n'); }
-
-#endif
