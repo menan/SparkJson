@@ -11,3 +11,5 @@
 // another environment
 
 #include "./ArduinoJson.h"
+
+#include <cstddef>
