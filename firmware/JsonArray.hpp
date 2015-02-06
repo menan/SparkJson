@@ -6,10 +6,10 @@
 
 #pragma once
 
-#include "Internals/JsonBufferAllocated.hpp"
-#include "Internals/JsonPrintable.hpp"
-#include "Internals/List.hpp"
-#include "Internals/ReferenceType.hpp"
+#include "JsonBufferAllocated.hpp"
+#include "JsonPrintable.hpp"
+#include "List.hpp"
+#include "ReferenceType.hpp"
 #include "JsonVariant.hpp"
 
 // Returns the size (in bytes) of an array with n elements.

@@ -9,9 +9,9 @@
 #include <stddef.h>
 #include <stdint.h>  // for uint8_t
 
-#include "Internals/JsonPrintable.hpp"
-#include "Internals/JsonVariantContent.hpp"
-#include "Internals/JsonVariantType.hpp"
+#include "JsonPrintable.hpp"
+#include "JsonVariantContent.hpp"
+#include "JsonVariantType.hpp"
 
 namespace ArduinoJson {
 

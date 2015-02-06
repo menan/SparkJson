@@ -6,7 +6,7 @@
 
 #ifndef ARDUINO
 
-#include "../../include/ArduinoJson/Arduino/Print.hpp"
+#include "Print.hpp"
 
 #include <stdio.h>  // for sprintf
 

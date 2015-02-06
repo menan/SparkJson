@@ -4,10 +4,10 @@
 // Arduino JSON library
 // https://github.com/bblanchon/ArduinoJson
 
-#include "./include/ArduinoJson/JsonVariant.hpp"
+#include "JsonVariant.hpp"
 
-#include "./include/ArduinoJson/JsonArray.hpp"
-#include "./include/ArduinoJson/JsonObject.hpp"
+#include "JsonArray.hpp"
+#include "JsonObject.hpp"
 
 using namespace ArduinoJson;
 using namespace ArduinoJson::Internals;
