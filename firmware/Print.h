@@ -22,8 +22,3 @@ class Print {
   size_t println();
 };
 
-#else
-
-#include <Print.h>
-
-#endif
