@@ -7,6 +7,7 @@
 #pragma once
 
 #include "IndentedPrint.h"
+#include "Print.h"
 
 namespace ArduinoJson {
 namespace Internals {
