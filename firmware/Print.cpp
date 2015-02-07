@@ -4,6 +4,9 @@
 // Arduino JSON library
 // https://github.com/bblanchon/ArduinoJson
 
+#ifndef SPARK
+
+#include "Print.h"
 
 #include <stdio.h>  // for sprintf
 
@@ -28,3 +31,5 @@ size_t Print::print(long value) {
 }
 
 size_t Print::println() { return write('\r') + write('\n'); }
+
+#endif

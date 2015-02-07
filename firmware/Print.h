@@ -1,10 +1,6 @@
-// Copyright Benoit Blanchon 2014
-// MIT License
-//
-// Arduino JSON library
-// https://github.com/bblanchon/ArduinoJson
-
 #pragma once
+
+#ifndef SPARK
 
 #include <stddef.h>
 #include <stdint.h>
@@ -22,3 +18,8 @@ class Print {
   size_t println();
 };
 
+#else
+
+#include <application.h>
+
+#endif

@@ -6,7 +6,7 @@
 
 #pragma once
 
-
+#include "Print.h"
 
 namespace ArduinoJson {
 namespace Internals {
